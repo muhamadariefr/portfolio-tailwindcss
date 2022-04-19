@@ -26,7 +26,3 @@ body {
 .hamburger-active>span:nth-child(3) {
     @apply -rotate-45;
 }
-
-html {
-    scroll-behavior: smooth;
-}
